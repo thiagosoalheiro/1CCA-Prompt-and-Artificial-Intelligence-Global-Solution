@@ -1,0 +1,1 @@
+# 1CCA-Prompt-and-Artificial-Intelligence-Global-Solution
