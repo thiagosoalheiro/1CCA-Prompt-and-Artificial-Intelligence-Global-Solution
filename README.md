@@ -32,12 +32,16 @@ O sistema analisa de forma autônoma os seguintes componentes da nave:
 ---
 
 ## 📸 Demonstração do Sistema Operando - Em Prints
+<img width="648" height="570" alt="image" src="https://github.com/user-attachments/assets/d6bd585a-3d6d-4753-9857-1befc7cb6c34" />
+<img width="675" height="651" alt="image" src="https://github.com/user-attachments/assets/33356302-55ff-422a-9ed9-2f79fc102030" />
+<img width="543" height="347" alt="image" src="https://github.com/user-attachments/assets/bbf0de91-5db9-4746-bf5c-c83896503e28" />
 
 ### 🟢 1. Cenário Operacional Normal (Sem Alertas)
-![Dados da missão](assets/dados_missao.png)
+<img width="1858" height="777" alt="image" src="https://github.com/user-attachments/assets/d2d3ab7b-8f5a-437d-8e78-738e4ccd89aa" />
+
 
 ### 🔴 2. Cenário Operacional Crítico (Alertas Ativados pelo Llama)
-![Alerta critico](assets/alerta_critico.png)
+<img width="1859" height="799" alt="imagem alertas GS" src="https://github.com/user-attachments/assets/dc544627-f823-4f64-9b38-25cc5d4731f6" />
 
 ---
 
@@ -47,7 +51,7 @@ Todo o projeto foi estruturado para rodar 100% em nuvem através do Google Colab
 
 1. **Acesse o Notebook:** [CLIQUE AQUI PARA ACESSAR O GOOGLE COLAB](https://colab.research.google.com/drive/1pE5grIonkj6OZMGy9CkkHAiicktkT8wJ?usp=sharing)
 2. **Configuração do Ambiente:** Execute a primeira célula do script para baixar, configurar a engine do Ollama em background e fazer o pull do modelo `llama3.2:1b`.
-3. **Geração e Relatório:** Execute a célula do prompt de controle. O painel gráfico estruturado e a resposta preditiva da IA serão impressos diretamente no console de saída.
+3. **Geração e Relatório:** Execute a célula que irá gerar os dados aleatórios e do prompt de controle. O painel gráfico estruturado e a resposta preditiva da IA serão impressos diretamente no console de saída.
 
 ---
 
