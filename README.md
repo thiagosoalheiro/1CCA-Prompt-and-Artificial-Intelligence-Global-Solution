@@ -58,4 +58,4 @@ Todo o projeto foi estruturado para rodar 100% em nuvem através do Google Colab
 ## 🎥 Vídeo de Demonstração
 Um vídeo explicativo com duração máxima de 3 minutos está disponível no link abaixo, apresentando os integrantes do grupo, explicando a arquitetura adotada do prompt e demonstrando a IA rodando cenários críticos ao vivo:
 
-▶️ [Assista ao Vídeo de Demonstração no YouTube]() 
+▶️ [Assista ao Vídeo de Demonstração no YouTube](https://youtu.be/NgJfgExa2B8) 
